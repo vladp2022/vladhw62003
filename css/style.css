@@ -1,0 +1,11 @@
+a[href^="https://"] {
+    color: red;
+}
+
+a[href*="#link6"] {
+    background-color: green;
+}
+
+ul+p {
+    font-size: 26px;
+}
